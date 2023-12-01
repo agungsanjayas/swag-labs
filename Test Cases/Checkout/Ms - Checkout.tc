@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Ms - Checkout</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bd513673-9203-4932-baf4-689bbce99a39</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b7217108-07d1-482c-862a-97196eb0f241</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>986124d5-3b08-407f-9dee-73cee9807684</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5d807079-5c1d-4181-80d9-4ccc003adc04</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'dummy'</defaultValue>
+      <description></description>
+      <id>b7217108-07d1-482c-862a-97196eb0f241</id>
+      <masked>false</masked>
+      <name>firstName</name>
+   </variable>
+   <variable>
+      <defaultValue>'test'</defaultValue>
+      <description></description>
+      <id>986124d5-3b08-407f-9dee-73cee9807684</id>
+      <masked>false</masked>
+      <name>lastName</name>
+   </variable>
+   <variable>
+      <defaultValue>'14045'</defaultValue>
+      <description></description>
+      <id>5d807079-5c1d-4181-80d9-4ccc003adc04</id>
+      <masked>false</masked>
+      <name>postalCode</name>
+   </variable>
+</TestCaseEntity>
