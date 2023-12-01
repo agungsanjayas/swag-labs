@@ -1,4 +1,4 @@
-Hello, Welcome to My Katalon Playgroun
+Hello, Welcome to My Katalon Playground
 
 In this Project, I made a catalog that can carry out e2e product purchases on the website https://www.saucedemo.com/
 
